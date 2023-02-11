@@ -1,0 +1,14 @@
+.view-book-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 25px;
+    margin: auto;
+    width: 500px;
+    margin-top: 25px;
+}
+.edit-delete-btn-container{
+    display: flex;
+    column-gap: 25px;
+}

@@ -1,0 +1,10 @@
+.book-card-container{
+    border: 1px solid red;
+    width: fit-content;
+    padding: 10px;
+    margin-top: 15px;
+}
+.card-container{
+    display: flex;
+    column-gap: 25px;
+}
